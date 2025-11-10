@@ -16,6 +16,8 @@ Refatorar o relatório original priorizando:
 
 O foco foi criar um dashboard mais limpo, interativo, intuitivo e eficiente para tomada de decisão.
 
+
+
 🚀 Entregas Realizadas
 Item	Descrição
 
@@ -35,6 +37,8 @@ Item	Descrição
 
 ✅ Dashboard completo com 3 páginas interativas	
 
+
+
 🧠 Conceitos aplicados
 
 Design centrado no usuário
@@ -49,6 +53,8 @@ Criatividade e design estratégico
 
 Consistência visual entre páginas
 
+
+
 🛠️ Tecnologias Utilizadas
 
 Power BI Desktop
@@ -59,10 +65,14 @@ DAX para cálculos e medidas
 
 Ferramentas de layout e design do Power BI
 
+
+
 ## 📸 Preview do Dashboard
 
 ![Preview do Dashboard](print_adequacoes.png)
 ![Preview do Dashboard](print_adequacoes2.png)
+
+
 
 📎 Como Visualizar
 
