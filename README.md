@@ -1,4 +1,12 @@
-# 📊 Dashboard Gerencial – Foco na Experiência do Usuário | Power BI
+<h2 align="center">📊 Dashboard Gerencial – Foco na Experiência do Usuário | Power BI</h2>
+
+<p align="center">
+  <img src="print_adequacoes.png" alt="Página 1" width="800">
+</p>
+<p align="center">
+  <img src="print_adequacoes2.png" alt="Página 2" width="800">
+</p>
+
 
 # 🎯 Objetivo do Desafio
 
@@ -54,7 +62,7 @@ Consistência visual entre páginas
 
 
 
-#🛠️ Tecnologias Utilizadas
+# 🛠️ Tecnologias Utilizadas
 
 Power BI Desktop
 
@@ -65,17 +73,6 @@ DAX para cálculos e medidas
 Ferramentas de layout e design do Power BI
 
 
-
-## 📸 Preview do Dashboard
-
-<h2 align="center">📊 Dashboard Gerencial</h2>
-
-<p align="center">
-  <img src="print_adequacoes.png" alt="Página 1" width="800">
-</p>
-<p align="center">
-  <img src="print_adequacoes2.png" alt="Página 2" width="800">
-</p>
 
 
 📎 Como Visualizar
