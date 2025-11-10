@@ -1,6 +1,6 @@
 # 📊 Dashboard Gerencial – Foco na Experiência do Usuário | Power BI
 
-🎯 Objetivo do Desafio
+# 🎯 Objetivo do Desafio
 
 Refatorar o relatório original priorizando:
 
@@ -17,8 +17,7 @@ Refatorar o relatório original priorizando:
 O foco foi criar um dashboard mais limpo, interativo, intuitivo e eficiente para tomada de decisão.
 
 
-
-🚀 Entregas Realizadas
+# 🚀 Entregas Realizadas
 Item	Descrição
 
 ✅ Ajuste completo do layout com foco em UX	
@@ -39,7 +38,7 @@ Item	Descrição
 
 
 
-🧠 Conceitos aplicados
+# 🧠 Conceitos aplicados
 
 Design centrado no usuário
 
@@ -55,7 +54,7 @@ Consistência visual entre páginas
 
 
 
-🛠️ Tecnologias Utilizadas
+#🛠️ Tecnologias Utilizadas
 
 Power BI Desktop
 
@@ -69,9 +68,14 @@ Ferramentas de layout e design do Power BI
 
 ## 📸 Preview do Dashboard
 
-![Preview do Dashboard](print_adequacoes.png)
-![Preview do Dashboard](print_adequacoes2.png)
+<h2 align="center">📊 Dashboard Gerencial</h2>
 
+<p align="center">
+  <img src="print_adequacoes.png" alt="Página 1" width="800">
+</p>
+<p align="center">
+  <img src="print_adequacoes2.png" alt="Página 2" width="800">
+</p>
 
 
 📎 Como Visualizar
